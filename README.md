@@ -2,8 +2,7 @@
 
 A GUI alarm clock that rings at every whole hour (e.g., 12:00, 15:00) with a bell sound.
 
-![Screenshot]Screenshot.PNG
-
+![Alarm Clock Screenshot](Screenshot.PNG)
 ## Features
 - Real-time clock display
 - Automatic hourly ringing
